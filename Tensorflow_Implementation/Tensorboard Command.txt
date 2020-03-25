@@ -1,0 +1,1 @@
+tensorboard --logdir=Tensorboard/Compression_Ratio_0.26/SNR_20dB/first/TrainSummary --host localhost --port 8088
